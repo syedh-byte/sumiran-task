@@ -21,3 +21,9 @@ and collaborating on Git repositories.
 ## Conclusion
 Git helps developers track changes
 and manage project versions.
+## Why Git is Useful
+
+- Tracks changes in files.
+- Helps developers collaborate.
+- Allows developers to restore previous versions.
+- Supports multiple development branches.
