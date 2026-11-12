@@ -21,3 +21,14 @@ This repository is used to:
 - Creating pull requests
 - Merging branches# sumiran-task
 task repo
+## What I Learned
+
+1. How to create a GitHub repository.
+2. How to clone a repository.
+3. How to create branches.
+4. How to make commits.
+5. How to create Pull Requests.
+6. How to merge branches.
+
+## Practical Task Status
+Working on my feature branch.
